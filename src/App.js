@@ -47,7 +47,7 @@ constructor(){
       	);
 
 
-  }.bind(this), 3000)	 
+  }.bind(this), 5000)	 
 			}
 
  convertToFah = (event) => {
